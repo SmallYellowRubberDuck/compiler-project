@@ -1,0 +1,11 @@
+int global a = 54;
+int global b = 63;
+while (a * b != 0){
+    if (a > b){
+        a = a % b;
+    }
+    else{
+        b = b % a;
+    }
+}
+print(a + b);

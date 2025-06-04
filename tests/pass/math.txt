@@ -1,0 +1,13 @@
+// test comment
+/*
+big test comment
+big test comment
+big test comment
+*/
+int global a = 5;
+int global b = 2;
+print(a + b);
+print(a - b);
+print(a * b);
+print(a / b);
+print(a % b);

@@ -1,0 +1,4 @@
+if (2 > 1){
+    int local a = 1;
+}
+print(a);

@@ -1,0 +1,4 @@
+string global first = "first";
+string global firstAndSecond = first . " and second";
+print(first);
+print(firstAndSecond);

@@ -1,0 +1,4 @@
+int global a = 1;
+int global a = 2;
+
+print(a);

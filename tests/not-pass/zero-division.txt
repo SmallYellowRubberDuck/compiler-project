@@ -1,0 +1,4 @@
+int global a = 1;
+int global b = 0;
+
+print(a / 0);
